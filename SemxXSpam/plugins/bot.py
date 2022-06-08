@@ -2,8 +2,8 @@
 import os
 import sys
 import heroku3
-from SemxXSpam import MK1, MK2, MK3, MK4, MK5 , MK6, MK7, MK8, MK9, MK10, OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY
-from SemxXSpam import CMD_HNDLR as hl
+from 𝙽𝚄𝙲𝙻𝙴𝙰𝚁 𝚇 𝚂𝙿𝙰𝙼 import MK1, MK2, MK3, MK4, MK5 , MK6, MK7, MK8, MK9, MK10, OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY
+from 𝙽𝚄𝙲𝙻𝙴𝙰𝚁 𝚇 𝚂𝙿𝙰𝙼 import CMD_HNDLR as hl
 from telethon.tl.functions.users import GetFullUserRequest
 from telethon import events
 from datetime import datetime
@@ -22,10 +22,10 @@ from datetime import datetime
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        event = await e.reply("𝙋𝙤𝙣𝙜!", parse_mode=None, link_preview=None )
+        event = await e.reply("Pong♡︎!", parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🎉 BHOSDIWALA ✘SPAM 🤖!\n✘`{ms}` ms\n 😈𝙍𝙀𝘼𝘿𝙔 𝙁𝙊𝙍 𝙎𝙀𝙈𝙓🤧")
+        await event.edit(f"♡︎𝙽𝚄𝙲𝙻𝙴𝙰𝚁 𝚇 𝚂𝙿𝙰𝙼 🤖!\n✘`{ms}` ms\n 😈𝙍𝙀𝘼𝘿𝙔 𝙁𝙊𝙍 𝙎𝙀𝙈𝙓🤧")
         
         
 

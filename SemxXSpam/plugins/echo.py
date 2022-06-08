@@ -5,10 +5,10 @@ import base64
 from telethon import events
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 
-from SemxXSpam import MK1, MK2, MK3, MK4, MK5 , MK6, MK7, MK8, MK9, MK10, SUDO_USERS, OWNER_ID
+from 𝙽𝚄𝙲𝙻𝙴𝙰𝚁 𝚇 𝚂𝙿𝙰𝙼 import MK1, MK2, MK3, MK4, MK5 , MK6, MK7, MK8, MK9, MK10, SUDO_USERS, OWNER_ID
 
-from SemxXSpam import CMD_HNDLR as hl
-from SemxXSpam.sql.echo_sql import addecho, is_echo, remove_echo
+from 𝙽𝚄𝙲𝙻𝙴𝙰𝚁 𝚇 𝚂𝙿𝙰𝙼 import CMD_HNDLR as hl
+from 𝙽𝚄𝙲𝙻𝙴𝙰𝚁 𝚇 𝚂𝙿𝙰𝙼.sql.echo_sql import addecho, is_echo, remove_echo
 from resources.data import RyanX
 
 

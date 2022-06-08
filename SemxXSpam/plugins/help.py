@@ -4,7 +4,7 @@ from SemxXSpam import CMD_HNDLR as hl
     
 HELP_PIC = "https://te.legra.ph/file/91d82bf74b7a75468f5ef.jpg"
 
-RyanHelp = "★ 𝙎𝙚𝙢𝙭𝙓𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@RUDRA_HUN_VAII"
+RyanHelp = "♡︎ 𝘕𝘜𝘊𝘓𝘙𝘈𝘌 𝘟 𝘚𝘗𝘈𝘔 𝘏𝘌𝘓𝘗 𝘔𝘌𝘕𝘜 ♡︎\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩\n\n\n@NucLeaR_xD"
 
 
 @MK1.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -24,17 +24,17 @@ async def help(event):
                                   caption=RyanHelp,
                                   buttons=[
            [
-            Button.inline("🔥 Spam 🔥", data="spam"),
-            Button.inline("😈 Raid 😈", data="raid"),
+            Button.inline("⚠️ 𝖘𝖕𝖆𝖒 ⚠️", data="spam"),
+            Button.inline("🥱 𝖗𝖆𝖎𝖉 🥱", data="raid"),
            ],
            [
-            Button.inline("⚡ Extra ⚡", data="extra"),
+            Button.inline("⚡ 𝖊𝖝𝖙𝖗𝖆 ⚡", data="extra"),
            ],
            [    
-            Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/TheMKHackerX131")
+            Button.url("✨ 𝖈𝖍𝖆𝖓𝖓𝖊𝖑 ✨", "https://t.me/AUKAATMEINRAHO")
            ],
            [
-           Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/HACKERxSPAM")
+           Button.url("✨ 𝖘𝖚𝖕𝖕𝖔𝖗𝖙 ✨", "https://t.me/AUKAATMEINRAHO")
            ],
            ],
            )              
@@ -143,23 +143,23 @@ async def helpback(event):
             RyanHelp,
             buttons=[
            [
-            Button.inline("🔥 Spam 🔥", data="spam"),
-            Button.inline("😈 Raid 😈", data="raid"),
+            Button.inline("⚠️ 𝖘𝖕𝖆𝖒 ⚠️", data="spam"),
+            Button.inline("🥱 𝖗𝖆𝖎𝖉 🥱", data="raid"),
            ],
            [
-            Button.inline("⚡ Extra ⚡", data="extra"),
+            Button.inline("⚡ 𝖊𝖝𝖙𝖗𝖆 ⚡", data="extra"),
            ],
            [    
-            Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/TheMKHackerX131")
+            Button.url("✨ 𝖈𝖍𝖆𝖓𝖓𝖊𝖑 ✨", "https://t.me/AUKAATMEINRAHO")
            ],
            [
-           Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/HACKERxSPAM")
+           Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/AUKAATMEINRAHO")
            ],
            ],
         )           
    else:
         Alert = (
-                "Noob !! Make Your Own Semc X Spam Bots !! @rudra_hun_vaii"
+                "𝗝𝗮𝗮 𝗡𝗮𝗮 𝗟𝘄𝗱𝗲 𝗔𝗽𝗻𝗮 𝗞𝗮𝗮𝗺 𝗞𝗿𝗻𝗮"
             )
         await event.answer(Alert, cache_time=0, alert=True)
       
@@ -187,7 +187,7 @@ async def help_spam(event):
             ) 
    else:
         Alert = (
-                "Noob !! Make Your Own Semx X Spam Bots !! @rudra_hun_vaii"
+                "𝗡𝗼𝗼𝗯 !! 𝗠𝗮𝗸𝗲 𝘆𝗼𝘂𝗿 𝘀𝗽𝗮𝗺 𝗯𝗼𝘁𝘀 !! @NucLeaR_xD"
             )
         await event.answer(Alert, cache_time=0, alert=True)
                  
@@ -214,7 +214,7 @@ async def help_raid(event):
             )  
      else:
         Alert = (
-                "Noob !! Make Your Own Semx X Spam Bots !! @rudra_hun_vaii"
+                "𝗡𝗼𝗼𝗯 !! 𝗠𝗮𝗸𝗲 𝘆𝗼𝘂𝗿 𝘀𝗽𝗮𝗺 𝗯𝗼𝘁𝘀 !! @NucLeaR_xD"
             )
         await event.answer(Alert, cache_time=0, alert=True)
        
@@ -231,7 +231,7 @@ async def help_raid(event):
 @MK9.on(events.CallbackQuery(pattern=r"extra"))
 @MK10.on(events.CallbackQuery(pattern=r"extra"))
 async def help_extra(event):
-   if event.query.user_id in SUDO_USERS:
+   if event.query.user_id in editSUDO_USERS:
         await event.edit(
             extra_msg,
             buttons=[
@@ -242,6 +242,6 @@ async def help_extra(event):
             )
    else:
         Alert = (
-                "Noob !! Make Your Own Semx X Spam Bots !! @rudra_hun_vaii"
+                "𝗝𝗮𝗮 𝗻𝗮 𝗹𝘄𝗱𝗲 𝗮𝗽𝗻𝗮 𝗸𝗮𝗮𝗺 𝗸𝗿"
             )
         await event.answer(Alert, cache_time=0, alert=True)

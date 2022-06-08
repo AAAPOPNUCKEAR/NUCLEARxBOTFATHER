@@ -1,7 +1,7 @@
 
 import glob
 from pathlib import Path
-from SemxXSpam.utils import load_plugins
+from 𝙽𝚄𝙲𝙻𝙴𝙰𝚁 𝚇 𝚂𝙿𝙰𝙼.utils import load_plugins
 import logging
 from . import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10
 

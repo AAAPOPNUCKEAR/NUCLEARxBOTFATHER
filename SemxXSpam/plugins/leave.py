@@ -1,5 +1,5 @@
-from SemxXSpam import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, SUDO_USERS
-from SemxXSpam import CMD_HNDLR as hl
+from 𝙽𝚄𝙲𝙻𝙴𝙰𝚁 𝚇 𝚂𝙿𝙰𝙼 import MK1, MK2, MK3, MK4, MK5, MK6, MK7, MK8, MK9, MK10, SUDO_USERS
+from 𝙽𝚄𝙲𝙻𝙴𝙰𝚁 𝚇 𝚂𝙿𝙰𝙼 import CMD_HNDLR as hl
 from telethon.tl.functions.channels import LeaveChannelRequest
 from telethon import events
 
@@ -23,14 +23,14 @@ async def leave(e):
             event = await e.reply(text)
             try:
                 await event.client(LeaveChannelRequest(Xd))
-                await event.edit("Succesfully Left !! ✅")
+                await event.edit(" 𝗜 𝗔𝗺 𝗟𝗲𝗮𝘃𝗶𝗻𝗴 𝗧𝗵𝗶𝘀 𝗖𝗵𝗮𝘁 !! ✅")
             except Exception as e:
                 await event.edit(str(e))
          
         else:
              bc = e.chat_id
              Xd = int(bc)
-             text = "I'm Leaving This Group......"
+             text = "𝗜'𝗺 𝗟𝗲𝗮𝘃𝗶𝗻𝗴 𝗧𝗵𝗶𝘀 𝗚𝗿𝗼𝘂𝗽......"
              if e.is_private:
                   dik = f"You Can't Do This Here !! \n\n {hl}leave <Channel or Chat ID> \n {hl}leave : type in the group, bot will auto leave that group..!"
                   await e.reply(dik)

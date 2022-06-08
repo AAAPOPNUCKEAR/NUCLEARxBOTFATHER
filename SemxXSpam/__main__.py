@@ -9,7 +9,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 
-path = "SemxXSpam/plugins/*.py"
+path = "𝙽𝚄𝙲𝙻𝙴𝙰𝚁×𝚂𝙿𝙰𝙼/plugins/*.py"
 files = glob.glob(path)
 for name in files:
     with open(name) as a:
@@ -17,8 +17,8 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("Semx X Bot Spam Successfully Deployed !!")
-print("Enjoy! Do Visit @HACKERxSPAM")
+print("𝙽𝚄𝙲𝙻𝙴𝙰𝚁 𝚇 𝚂𝙿𝙰𝙼 𝚂𝚄𝚂𝚂𝙴𝚂𝚂𝙵𝚄𝙻𝙻𝚈 𝙳𝙴𝙿𝙻𝙾𝚈𝙴𝙳⚜️ !!")
+print("𝙴𝙽𝙹𝙾𝚈 𝚈𝙾𝚄𝚁 𝙵𝙰𝚂𝚃 𝚂𝙿𝙰𝙼 𝙱𝙾𝚃! @AUKAATMEINRAHO")
 
 if __name__ == "__main__":
     MK1.run_until_disconnected()

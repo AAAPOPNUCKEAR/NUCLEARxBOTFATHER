@@ -8,20 +8,20 @@ MIG_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/91d82bf74b7a7546
 
 Ryan_Button = [
         [
-        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/TheMKHackerX131")
+        Button.url("✨ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 ✨", "https://t.me/NucLeaR_xD")
         ],
         [
-        Button.inline("⚡ ᴄᴏᴍᴍᴀɴᴅs ⚡", data="help_back")
+        Button.inline("⚡ 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 ⚡", data="help_back")
         ]
         ]
                
 RyanX_Button = [
         [
-        Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/TheMKHackerX131"),
-        Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/HACKERxSPAM")
+        Button.url("✨ 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 ✨", "https://t.me/NucLeaR_xD"),
+        Button.url("✨ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 ✨", "https://t.me/AUKAATMEINRAHO")
         ],
         [
-        Button.url("🔥 ʀᴇᴘᴏ 🔥", "https://github.com/ERR0rMK/SEMXxBOTFATHER")
+        Button.url("🔥 𝗥𝗘𝗣𝗢 🔥", "https://github.com/ERR0rMK/SEMXxBOTFATHER")
         ]
         ]
         

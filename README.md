@@ -1,11 +1,11 @@
 <h1 align="center"><b>⚠️⚜️𝗡𝘂𝗰𝗹𝗲𝗮𝗿𝗫𝘀𝗽𝗮𝗺⚜️⚠️</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
+<h4 align="center"> 𝗙𝗮𝘀𝘁 𝘀𝗽𝗮𝗺 𝘂𝘀𝗲𝗿𝗯𝗼𝘁</h4>
 
-<p align="center"><a href="https://t.me/rudra_hun_vaii"><img src="https://te.legra.ph/file/91d82bf74b7a75468f5ef.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/NucLeaR_xD"><img src="https://te.legra.ph/file/cd03811f7b0f90d7fc690.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using THIS OP SEMX SPAM BOT, That is the greatest pleasure we have !
+> ⭐️ 𝘁𝗵𝗮𝗻𝗸𝘀 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲 𝗳𝗼𝗿 𝘂𝘀𝗶𝗻𝗴 𝘁𝗵𝗶𝘀 𝗽𝗼𝘄𝗲𝗿𝗳𝘂𝗹 𝗡𝘂𝗰𝗹𝗲𝗮𝗿 𝘅 𝘀𝗽𝗮𝗺 𝘂𝘀𝗲𝗿𝗯𝗼𝘁 𝗱𝗲𝗽𝗹𝗼𝘆 𝗶𝘁 𝗮𝗻𝗱 𝗲𝗻𝗷𝗼𝘆! 
     
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
@@ -34,6 +34,6 @@
 <br>
 
 # ꜱᴜᴘᴘᴏʀᴛ ✨
-<a href="https://t.me/TheMKHackerX131"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/AUKAATMEINRAHO"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 </details>

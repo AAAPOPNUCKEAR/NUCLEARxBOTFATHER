@@ -2,9 +2,9 @@
 import asyncio
 import random
 from telethon import events
-from SemxXSpam import MK1, MK2, MK3, MK4, MK5 , MK6, MK7, MK8, MK9, MK10, SUDO_USERS, OWNER_ID
+from 𝐍𝐮𝐜𝐥𝐞𝐚𝐫 𝐗 𝐒𝐩𝐚𝐦 import MK1, MK2, MK3, MK4, MK5 , MK6, MK7, MK8, MK9, MK10, SUDO_USERS, OWNER_ID
 from resources.data import RAID, REPLYRAID, RyanX, MRAID, SRAID, CRAID
-from SemxXSpam import CMD_HNDLR as hl
+from 𝐍𝐮𝐜𝐥𝐞𝐚𝐫 𝐗 𝐒𝐩𝐚𝐦 import CMD_HNDLR as hl
 
 
 que = {}

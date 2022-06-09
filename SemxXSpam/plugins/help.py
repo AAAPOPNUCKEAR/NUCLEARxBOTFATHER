@@ -65,7 +65,7 @@ Command :
 **PackSpam :** Sticker Pack Spam
 1) {hl}packspam <reply to any sticker>
 
-**© @rudra_hun_vaii**
+**© @NucLeaR_xD**
 """
 
                  
@@ -94,7 +94,7 @@ Command :
 2) {hl}dreplyraid <username>
 
 
-**© @rudra_hun_vaii**
+**© @NucLeaR_xD**
 """
 
 spam_msg = f"""
@@ -123,7 +123,7 @@ Command :
 Command :
 1) {hl}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
-** © @rudra_hun_vaii**
+** © @NucLeaR_xD**
 """                     
            
            
@@ -153,13 +153,13 @@ async def helpback(event):
             Button.url("✨ 𝖈𝖍𝖆𝖓𝖓𝖊𝖑 ✨", "https://t.me/AUKAATMEINRAHO")
            ],
            [
-           Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/AUKAATMEINRAHO")
+           Button.url("✨ 𝖘𝖚𝖕𝖕𝖔𝖗𝖙 ✨", "https://t.me/AUKAATMEINRAHO")
            ],
            ],
         )           
    else:
         Alert = (
-                "𝗝𝗮𝗮 𝗡𝗮𝗮 𝗟𝘄𝗱𝗲 𝗔𝗽𝗻𝗮 𝗞𝗮𝗮𝗺 𝗞𝗿𝗻𝗮"
+                "𝗡𝗼𝗼𝗯 !! 𝗠𝗮𝗸𝗲 𝘆𝗼𝘂𝗿 𝘀𝗽𝗮𝗺 𝗯𝗼𝘁𝘀 !! @NucLeaR_xD"
             )
         await event.answer(Alert, cache_time=0, alert=True)
       
@@ -242,6 +242,6 @@ async def help_extra(event):
             )
    else:
         Alert = (
-                "𝗝𝗮𝗮 𝗻𝗮 𝗹𝘄𝗱𝗲 𝗮𝗽𝗻𝗮 𝗸𝗮𝗮𝗺 𝗸𝗿"
+                "𝗡𝗼𝗼𝗯 !! 𝗠𝗮𝗸𝗲 𝘆𝗼𝘂𝗿 𝘀𝗽𝗮𝗺 𝗯𝗼𝘁𝘀 !! @NucLeaR_xD"
             )
         await event.answer(Alert, cache_time=0, alert=True)

@@ -1,6 +1,6 @@
 
 import asyncio
-from SemxXSpam import MK1, OWNER_ID, HEROKU_API_KEY, HEROKU_APP_NAME
+from 𝐍𝐮𝐜𝐥𝐞𝐚𝐫 𝐗 𝐒𝐩𝐚𝐦 import MK1, OWNER_ID, HEROKU_API_KEY, HEROKU_APP_NAME
 from .. import CMD_HNDLR as hl
 from telethon import events
 from datetime import datetime
@@ -33,8 +33,8 @@ async def logs(legend):
         await asyncio.sleep(1)
         await fetch.delete()
         logfile = open("BotSpamLogs.txt", "w")
-        logfile.write("⚡ Semx X Spam ⚡ [ BotSpam Logs ]\n\n" + logs)
+        logfile.write("⚜️ 𝐍𝐮𝐜𝐥𝐞𝐚𝐫 𝐗 𝐒𝐩𝐚𝐦 ⚜️ [ BotSpam Logs ]\n\n" + logs)
         logfile.close()
-        await MK1.send_file(legend.chat_id, "BotSpamLogs.txt", caption=f"⚡ 𝐒𝐞𝐦𝐱 𝐗 𝐒𝐩𝐚𝐦 𝐋𝐨𝐠𝐬 ⚡\n**Time Taken :** `{ms} Seconds`")
+        await MK1.send_file(legend.chat_id, "BotSpamLogs.txt", caption=f"⚜️ 𝐍𝐮𝐜𝐥𝐞𝐚𝐫 𝐗 𝐒𝐩𝐚𝐦 𝐋𝐨𝐠𝐬 ⚜️\n**Time Taken :** `{ms} Seconds`")
     else:
         await legend.reply("Sorry, Only Owner Can Access This Command.")
